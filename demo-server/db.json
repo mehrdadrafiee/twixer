@@ -1,0 +1,18 @@
+{
+  "people": [
+    {
+      "id": 0,
+      "name": "John"
+    },
+    {
+      "name": "Henry",
+      "id": 1
+    },
+    {
+      "name": "Frank",
+      "id": 2
+    }
+  ],
+  "apple-touch-icon-precomposed.png": [],
+  "apple-touch-icon.png": []
+}
